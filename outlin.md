@@ -6,7 +6,7 @@ job:
  _published at
  _vacancy
  _salary
- _categoer
+ _category
  _experince
  _gender
  _apply job
