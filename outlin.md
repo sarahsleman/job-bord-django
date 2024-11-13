@@ -4,7 +4,7 @@ job:
  _jobtype
  _descreption
  _published at
- _vacarcy
+ _vacancy
  _salary
  _categoer
  _experince
